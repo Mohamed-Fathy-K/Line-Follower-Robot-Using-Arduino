@@ -59,7 +59,7 @@ The provided Arduino code implements the logic for the line follower robot. Here
 
 ## Screenshots and Video
 
-[Link to Video](https://github.com/Mohamed-Fathy-K/Line-Follower-Robot-Using-Arduino/raw/main/assets/vid.mp4)
+https://github.com/Mohamed-Fathy-K/Line-Follower-Robot-Using-Arduino/assets/91393658/65f404a4-e9f9-40ec-9547-0e30ec348ad9
 
 
 
